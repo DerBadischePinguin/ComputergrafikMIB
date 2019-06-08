@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vinze\\Documents\\MIB\\GIS\\ComputergrafikMIB-master\\Tut10_MeshCompleted\\Tut10_MeshCompleted.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vinze\\Documents\\MIB\\GIS\\ComputergrafikMIB-master\\Tut10_MeshCompleted\\Tut10_MeshCompleted.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vinze\\Documents\\MIB\\GIS\\ComputergrafikMIB-master\\Tut10_MeshCompleted\\Tut10_MeshCompleted.csproj",
+        "projectName": "Tut10_MeshCompleted",
+        "projectPath": "C:\\Users\\vinze\\Documents\\MIB\\GIS\\ComputergrafikMIB-master\\Tut10_MeshCompleted\\Tut10_MeshCompleted.csproj",
+        "packagesPath": "C:\\Users\\vinze\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vinze\\Documents\\MIB\\GIS\\ComputergrafikMIB-master\\Tut10_MeshCompleted\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vinze\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
